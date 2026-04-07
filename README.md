@@ -16,6 +16,12 @@ To answer the core question:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard.png)
+
+---
+
 ## 📊 Dataset Summary
 
 * **Total Records:** 3,900 transactions
